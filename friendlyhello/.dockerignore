@@ -1,4 +1,5 @@
 data/
+experimentos/
 docker-compose*.yaml
 Dockerfile
 .dockerignore
