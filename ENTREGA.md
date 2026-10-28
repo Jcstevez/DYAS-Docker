@@ -18,4 +18,5 @@ https://github.com/Jcstevez/DYAS-Docker/wiki
 | Paso 5: Compose | `friendlyhello/docker-compose.yaml` |
 | Paso 6: balanceo con Traefik | `friendlyhello/docker-compose.traefik.yaml` |
 | Parte 3: registro, ejercicio 1 | `friendlyhello/docker-compose.hub.yaml` |
+| Parte 3: ejercicio 2 (imagen de un compañero) | `friendlyhello/docker-compose.companero.yaml` |
 | Evidencias | `docs/capturas/` |
